@@ -1,0 +1,9 @@
+turbines;distance;minTechnique;incompatibilite;debutArret;finArret;prodMin;nbPieces;nbInt;minTpsConstant;catPrix;palier;
+Turb1;;;;;;;10;1;2;0;13000;
+Turb2;;44000;;;;;17;16;;0;;
+Turb3;;;Pompe1;;;;23;7;;2;;
+Turb4;;4400;;;;;14;7;;0;;
+Turb5;;;;;;;2;1;;0;;
+Turb6;2;;;;;;53;1;;0;;
+Turb7;2;;;;;;53;1;;2;;
+Turb8;;;;;;;57;4;;1;;
